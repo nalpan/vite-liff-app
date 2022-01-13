@@ -1,3 +1,16 @@
+# 開発環境構築
+- Node.js 16
+- npm 8
+- VSCode
+
+devサーバー起動
+1. `npm ci`
+1. `npm run dev`
+
+ビルド
+1. `npm run build`
+1. `/dist` へ出力される
+
 # Vue 3 + Vite + liff
 
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
