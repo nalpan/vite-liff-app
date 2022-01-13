@@ -2,8 +2,6 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import liff from '@line/liff'
 
-
-
 async function main(){
   await liff.init({
     liffId: '1656795481-GomBd7X9', // Use own liffId
